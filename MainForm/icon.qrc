@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/1024px-ArrowCross.svg.png</file>
+        <file>ico/arrow-cursor-mouse-pixel.png</file>
+        <file>ico/Link-512.png</file>
+        <file>ico/table_add.ico</file>
+        <file>ico/table-delete.png</file>
+    </qresource>
+</RCC>
